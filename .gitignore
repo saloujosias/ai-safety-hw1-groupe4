@@ -1,0 +1,11 @@
+# Fichiers lourds ou soumis a licence : ne pas versionner
+data/
+checkpoints/
+env/
+*.tar
+*.tar.gz
+*.tgz
+*.pkl
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
