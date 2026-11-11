@@ -1,0 +1,6 @@
+numpy==1.26.1
+setuptools==69.5.1
+yapf==0.40.1
+opencv-python==4.9.0.80
+matplotlib==3.8.4
+shapely==1.8.5.post1
